@@ -29,7 +29,7 @@ function replayInvitation() {
 }
 async function copyInvitation() {
     const text =
-        `THE SECRET BALL
+        `THE REUNITE oF Blue ROSE!!
         Date: ?? / ?? / ??
         Time: ???
         Venue: BLUE ROSE Server
